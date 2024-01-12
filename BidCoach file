@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Your Name - Business Growth Expert</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+            color: #333;
+        }
+        header {
+            background-color: #007BFF;
+            color: #fff;
+            padding: 20px;
+            text-align: center;
+        }
+        section {
+            max-width: 800px;
+            margin: 20px auto;
+            padding: 20px;
+            background-color: #fff;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        h1, h2, h3 {
+            color: #007BFF;
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1>Your Name</h1>
+        <p>Business Growth Expert</p>
+    </header>
+
+    <section>
+        <h2>About Me</h2>
+        <p>Welcome to my personal webpage! I am passionate about helping businesses achieve remarkable growth in a short span of time. With a focus on building strong team relationships and enhancing productivity, I bring valuable expertise to propel your business forward.</p>
+    </section>
+
+    <section>
+        <h2>Services</h2>
+        <ul>
+            <li>Strategic Planning for 40% Growth in 90 Days</li>
+            <li>Team Building and Relationship Enhancement</li>
+            <li>Productivity Improvement Strategies</li>
+            <li>Time Recovery Techniques</li>
+        </ul>
+    </section>
+
+    <section>
+        <h2>Contact Me</h2>
+        <p>Ready to take your business to the next level? Let's connect!</p>
+        <p>Email: your.email@example.com</p>
+        <p>Phone: (123) 456-7890</p>
+    </section>
+
+</body>
+</html>
